@@ -11,6 +11,9 @@ Small project of mine i did last night that takes an image u choose and turns it
 # How do the options work?
 Very simple, Open Image opens ur file explorer so u can choose an image u want to use, Scale is also easy the higher the number the less characters and detail it does and the lower the number the more characters and details it does (do be warned anything below 1 can lag out ur system due the the tramendous ammount of characters its rendering), Charset is also self explained as its where u choose wether to use 01s or 123456789s or symbols like #@$%&*, lastly Colored Mode is also simple as u choose wether it should be colored or not.
 
-# Some more images as well as a video
+# Some more images
 <img width="1178" height="50" alt="image" src="https://github.com/user-attachments/assets/16bd6da5-a1b5-442f-9eee-636530e5edb1" />
-<img width="1181" height="943" alt="image" src="https://github.com/user-attachments/assets/59aa86b6-d5a1-4450-bef9-436b40ef5a86" /> ![5cb9b65a-0506-4e67-9456-fa8d94c7a938](https://github.com/user-attachments/assets/f630341e-711c-4822-8b29-d6eeaffb6c88)
+<img width="1181" height="943" alt="image" src="https://github.com/user-attachments/assets/59aa86b6-d5a1-4450-bef9-436b40ef5a86" /> 
+
+# Info
+Updates might be slow
